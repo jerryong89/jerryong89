@@ -1,4 +1,6 @@
-Hi, i'm Jerry. I like making all kinds of things. Currently learning how to make things with code. Anything where I can tinker in where I thrive.
+Hi, i'm Jerry. I like building and fixing all kinds of things. Currently learning how to make things with code. Anything where I can tinker is where I thrive.
+
+💬 Ask me about what i'm currently working on right now.
 
 <!--
 **jerryong89/jerryong89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
